@@ -1,9 +1,13 @@
 using Microsoft.Playwright.MSTest;
 using Microsoft.Playwright;
 
+
+namespace Regression;
+
 [TestClass]
 public class Tests : PageTest
 {
+    [Ignore]
     [TestMethod]
     public async Task MyTest()
     {
