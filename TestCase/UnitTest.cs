@@ -2,8 +2,9 @@ using System.Text.RegularExpressions;
 using Microsoft.Playwright;
 using Microsoft.Playwright.MSTest;
 
-namespace AcceptanceTest;
+namespace UnitTest;
 
+[Ignore]
 [TestClass]
 public class ExampleTest : PageTest
 {

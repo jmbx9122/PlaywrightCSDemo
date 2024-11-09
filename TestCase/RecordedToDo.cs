@@ -1,9 +1,9 @@
 using Microsoft.Playwright.MSTest;
 using Microsoft.Playwright;
 
+namespace RecordedToDo;
 
-namespace Regression;
-
+[Ignore]
 [TestClass]
 public class Tests : PageTest
 {

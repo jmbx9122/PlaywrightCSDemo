@@ -1,0 +1,4 @@
+{
+    "dotnet.unitTests.runSettingsPath": ".\\runtimesettings\\default.runsettings"
+    
+}
