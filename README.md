@@ -12,6 +12,8 @@
 - Open Folder Path 'PlaywrightCSDemo'
 - Open Visual Code Terminal by `ctl+`' or Menu `View --> Terminal`
 - Run following commands in the Terminal
+
+
 ```
   dotnet new mstest-playwright
   dotnet build
